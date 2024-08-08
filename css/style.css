@@ -5,6 +5,11 @@
 @import "footer.css";
 */
 
+:root {
+  --button-primary: tomato;
+  --button-hover: rgba(255, 99, 71, 0.8);
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
     "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI",
